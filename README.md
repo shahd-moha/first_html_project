@@ -1,5 +1,8 @@
 shape of output 
-NEWS
+
+
+
+                                                                      NEWS
 sports section
 football
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam quo, in commodi dignissimos earum nihil pariatur, id quas sit saepe facere magni sint quisquam animi eligendi ipsum odio amet? Id vel omnis aut eaque libero. Dolorem rem tempora, nisi illo voluptates fugit excepturi fugiat tempore provident quam nesciunt quos laboriosam dolore, modi molestias atque perferendis. ipsum dolor sit, amet consectetur adipisicing elit. Quo consequuntur odio alias maxime adipisci quaerat nihil distinctio, illo harum, doloremque, repudiandae beatae. Magnam molestiae quod perspiciatis, placeat esse rerum molestias.
